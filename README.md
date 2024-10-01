@@ -1,14 +1,3 @@
-Objetivo: se tienen fotogradias y videos duplicados, solo se deben de copiar a una sola carpeta de destino evitando duplicar los archivos
-ademas se deben de organisar por año y fecha
-
-1 leer las fotos y videos de dentro de una carpeta y sus subcarpetas
-2 debe de leer el archivo obtener la fecha de creacion, nombre del archivo y tamaño en bytes
-3 debe de copiar el archivo a una carpeta de destino y debe de crear una subcarpeta con el nombre del sigiente formato 
-  YYYY_mm si no exsiste la carpeta 
-4 solo debe de copiar archivos de fotos y videos cullos atributos la fecha de creacion, nombre del archivo y tamaño en bytes no exsistan en la carpeta de destino
-5 hacer una lista de los archivos de fotos y videos duplicados y poner el contenido en un archivo llamado dupllicdos.txt donde especifique el path completo de las fotos y videos duplicados
-# Photo and Video Organizer
-
 ## Objective
 The goal of this project is to organize and deduplicate photos and videos by copying them to a single destination folder, avoiding duplicates. Additionally, the files should be organized by year and date.
 
